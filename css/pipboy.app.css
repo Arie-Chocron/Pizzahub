@@ -1,0 +1,38 @@
+@font-face {
+
+	font-family: Pipboy;
+	src: url('../monofonto.ttf');
+}
+
+
+body {
+	font-family: Pipboy, sans-serif;
+	
+
+}
+
+.navbar {
+
+	border-bottom: 1px solid;
+
+}
+
+
+.nav-text {
+
+	display: flex;
+	justify-content: flex-end;
+	
+}
+
+.container-edit {
+
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.card {
+
+	margin: 30px;
+
+}
